@@ -1,0 +1,78 @@
+.top {
+    padding: 20px 15px 10px;
+    background-color: #263238
+}
+
+.top h1 {
+    font-size: 60px; 
+    color: white;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif
+    font-style: bold;
+    margin: 0;
+}
+
+.top p {
+    font-size: 20px;
+    font-family: Arial;
+    color: white
+}
+
+.top p {
+    font-size: 15px;
+}
+
+.mid {
+    padding: 10px 10px 10px;
+    background-color: #1565c0
+}
+
+.mid h3 {
+    font-size: 20px;
+    color: white;
+    font-family: Arial, Helvetica, sans-serif;
+}
+.mid li {
+    color: white;
+}
+.mid p {
+    color: white;
+    font-family: Arial, Helvetica, sans-serif;
+    margin: 8px;
+
+}
+
+.bot {
+    padding: 20px 10px 20px;
+    background-color: #42a5f5;
+}
+
+.bot h3 {
+    font-size: 20px;
+    color: white;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+.bot p {
+    color: white;
+    font-family: Arial, Helvetica, sans-serif;
+    margin: 8px;
+}
+
+.bot li {
+    color: white;
+}
+
+.date1 {
+    background-color: #607D8B;
+    width: 230px;
+}
+
+.date2 {
+    background-color: #607D8B;
+    width: 160px;
+}
+
+.body {
+    margin: 0;
+    border: 0;
+}
